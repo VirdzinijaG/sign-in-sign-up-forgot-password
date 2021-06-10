@@ -1,4 +1,14 @@
-.form {
+.form-left {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.form-center {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.form-right {
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -10,4 +20,50 @@ input {
     margin-bottom: 30px;
     border: none;
     border-bottom: 2px solid #8F54EA;
+    padding-left: 40px;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.username {
+    position: absolute;
+    top: 35%;
+    left: 12%;
+    width: 20px;
+}
+.username1 {
+    position: absolute;
+    top: 32%;
+    left: 12%;
+    width: 20px;
+}
+.password {
+    position: absolute;
+    top: 48%;
+    left: 12%;
+    width: 20px;
+}
+.password1 {
+    position: absolute;
+    top: 57.5%;
+    left: 12%;
+    width: 20px;
+}
+.password2 {
+    position: absolute;
+    top: 70%;
+    left: 12%;
+    width: 20px;
+}
+.email {
+    position: absolute;
+    top: 44%;
+    left: 12%;
+    width: 20px;
+}
+.email1 {
+    position: absolute;
+    top: 35%;
+    left: 12%;
+    width: 20px;
 }
