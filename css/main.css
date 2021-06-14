@@ -63,3 +63,62 @@ p {
     line-height: 20px;
     word-spacing: 9px;
 }
+
+.last {
+    color: silver;
+    position: absolute;
+    margin-top: 47%;
+    margin-left: 25%;
+}
+
+.link {
+    position: absolute;
+    text-decoration: none;
+    color: #8F54EA;
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-top: 53%;
+    margin-left: 35%;
+}
+.last1 {
+    color: silver;
+    position: absolute;
+    margin-top: 54%;
+    margin-left: 52%;
+}
+.last2 {
+    color: silver;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 25%;
+}
+.link2 {
+    position: absolute;
+    text-decoration: none;
+    color: #8F54EA;
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-top: 21%;
+    margin-left: 40%;
+}
+.last3 {
+    color: silver;
+    position: absolute;
+    margin-top: 69%;
+    margin-left: 25%;
+}
+.link3 {
+    position: absolute;
+    text-decoration: none;
+    color: #8F54EA;
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-top: 75%;
+    margin-left: 35%;
+}
+.last4 {
+    color: silver;
+    position: absolute;
+    margin-top: 76%;
+    margin-left: 52%;
+}
