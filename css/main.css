@@ -119,6 +119,6 @@ p {
 .last4 {
     color: silver;
     position: absolute;
-    margin-top: 76%;
+    margin-top: 76%; /* reiketu be margin naudoti */
     margin-left: 52%;
 }
